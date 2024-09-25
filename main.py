@@ -1,4 +1,5 @@
-#Programer: Max Rice Problem: Calculate grade needed on final weighted 20% to get 90% in whole course
+#Programer: Max Rice Problem: 
+# Calculate grade needed on final weighted 20% to get 90% in whole course
 Current_Grade = float(input("Current Grade: "))
 #My sisters goal was to get a 90% on the grade
 Desired_Grade = 90

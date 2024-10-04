@@ -4,7 +4,7 @@
 
 ### Comments:
 - Intro comments complete and clear
-    - **-NO**
+    - **-YES**
 - Appropriate in-line commentary given
     - **YES-**
 
@@ -51,4 +51,4 @@
 ### Comments on the grading
 - If you update the NO's, you might get an E
 
-### Grade: M
+### Grade: E
